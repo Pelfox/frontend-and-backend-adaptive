@@ -1,3 +1,7 @@
+<a href="https://pelfox.github.io/frontend-and-backend-adaptive/" target="_blank">
+![Preview CTA](https://img.shields.io/badge/Preview-blue)
+</a>
+
 # Персональное портфолио
 
 Учебный сайт-портфолио, созданный для сдачи контрольной работы №3 по дисциплине
