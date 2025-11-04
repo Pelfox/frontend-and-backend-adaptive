@@ -5,3 +5,20 @@
 
 Основная задача - реализация адаптивной вёрстки, проходящей валидацию по W3C и
 имеющая хорошие показатели в Lighthouse.
+
+### Результаты Lighthouse
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### Мобильная версия
+<img src=".github/lighthouse_mobile.png" alt="Мобильная страница в Lighthouse" width="100%" />
+</td>
+<td align="center" width="50%">
+
+#### Десктопная версия
+<img src=".github/lighthouse_desktop.png" alt="Десктопная страница в Lighthouse" width="100%" />
+</td>
+</tr>
+</table>
