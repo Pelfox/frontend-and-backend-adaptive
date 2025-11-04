@@ -1,6 +1,4 @@
-<a href="https://pelfox.github.io/frontend-and-backend-adaptive/" target="_blank">
-![Preview CTA](https://img.shields.io/badge/Preview-blue)
-</a>
+[![Preview CTA](https://img.shields.io/badge/Preview-blue)](https://pelfox.github.io/frontend-and-backend-adaptive/)
 
 # Персональное портфолио
 
